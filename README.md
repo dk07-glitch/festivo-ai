@@ -74,23 +74,6 @@ Festivo AI is an intelligent celebration planning suite engineered to turn event
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v18+)
-- npm or pnpm
-
-### Running Locally
-```bash
-# Navigate to project directory
-cd "C:\Users\Dheepak\.gemini\antigravity\scratch\festivo-ai"
-
-# Install dependencies (already completed)
-npm install
-
-# Start local development server
-npm run dev
-```
 
 ### Google Gemini API Setup (Optional)
 Festivo AI features a built-in intelligent offline fallback engine that works 100% out of the box with zero setup.
